@@ -5,6 +5,9 @@ version = "0.1.0"
 edition = "2018"
 license-file = "LICENSE"
 readme = "README.md"
+documentation = "https://docs.rs/protected-id-derive"
+homepage = "https://github.com/Anser-TV/protected-id-derive"
+repository = "https://github.com/Anser-TV/protected-id-derive"
 
 [dependencies]
 quote = "0.3.15"
